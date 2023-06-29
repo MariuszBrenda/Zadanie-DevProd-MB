@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNxQT8u566D/dP2gWbC+9x1Q7upB/9UJnGXN9mwY9o9PYeOOyB33t2sey8lA2czKjug8n5+7yrt8V2aj19A21Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MBrenda\\source\\repos\\Zadanie DevProd-MB\\Zadanie DevProd-MB\\Zadanie DevProd-MB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MBrenda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MBrenda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MBrenda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MBrenda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MBrenda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MBrenda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
